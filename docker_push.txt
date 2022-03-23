@@ -1,0 +1,2 @@
+docker tag schema-registry-ui-nginx drivereu/schema-registry-ui-nginx:latest
+docker push drivereu/schema-registry-ui-nginx:latest
